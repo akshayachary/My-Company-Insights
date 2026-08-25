@@ -45,9 +45,9 @@ This project demonstrates the full data analysis lifecycle:
 ---
 
 ## 👨‍💻 Author
-**Yash Chauhan**  
+**Akshay Acharya**  
 Data Analyst | Python · SQL · Power BI  
-📧 [Add your email here]  
-🌐 [Add your LinkedIn profile link]  
+📧 [akshayacharya083@gmail.com]  
+🌐 [https://www.linkedin.com/in/akshay-acharya-8bb04b3b8?utm_source=share_via&utm_content=profile&utm_medium=member_android]  
 
 ---
